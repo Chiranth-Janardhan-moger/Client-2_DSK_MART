@@ -36,6 +36,20 @@ The system is designed with enterprise-grade backend security practices and is r
 Delivery businesses, retail stores, logistics teams, fleet operators.
 
 ---
+## Screenshots
+
+### Delivery Boys App
+![Delivery boys App](assets/images/app.png)
+
+### Admin Dashboard Website
+![Admin Dashboard](assets/images/1.png)
+![Admin Dashboard](assets/images/2.png)
+![Admin Dashboard](assets/images/3.png)
+![Admin Dashboard](assets/images/4.png)
+![Admin Dashboard](assets/images/5.png)
+![Admin Dashboard](assets/images/6.png)
+
+---
 
 ##  System Architecture
 
@@ -45,8 +59,6 @@ Delivery businesses, retail stores, logistics teams, fleet operators.
 - **Database:** MongoDB
 - **Real-Time Communication:** WebSockets
 - **Notifications:** Firebase Cloud Messaging (FCM)
-
-The architecture follows a clean, modular, three-tier design with strict separation of concerns.
 
 ---
 
@@ -136,18 +148,5 @@ The architecture follows a clean, modular, three-tier design with strict separat
 
 
 ---
-
-## Screenshots
-
-### Delivery Boys App
-![Delivery boys App](assets/images/app.png)
-
-### Admin Dashboard Website
-![Admin Dashboard](assets/images/1.png)
-![Admin Dashboard](assets/images/2.png)
-![Admin Dashboard](assets/images/3.png)
-![Admin Dashboard](assets/images/4.png)
-![Admin Dashboard](assets/images/5.png)
-![Admin Dashboard](assets/images/6.png)
 
 
