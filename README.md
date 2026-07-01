@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 style="font-size: 3rem; background: linear-gradient(90deg, #3b82f6, #22c55e); -webkit-background-clip: text; color: transparent;">
-🛵 DSK Delivery System
+ DSK Delivery System
 </h1>
 <p align="center" style="margin-top:-6px; white-space:nowrap;">
   <mark style="
